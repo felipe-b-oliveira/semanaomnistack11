@@ -22,3 +22,11 @@
 * Listar casos específicos
 * Listar todos os casos
 * Entrar em contato com a ONG
+
+## ReactJS
+
+### Propriedades/Props
+
+* props.children: Acessa o que esta dentro do componente
+* NovoComponente ({ children }): Desestruturação da propriedade/atributo children
+
