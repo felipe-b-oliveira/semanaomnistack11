@@ -9,4 +9,6 @@
 
 ## Execução
 
-*
+* Efetue o clone do projeto
+* Execute o comando npm install dentro da pasta do projeto desejado
+* Para a execução dos projetos mobile e frontend execute em segundo plano o backend
